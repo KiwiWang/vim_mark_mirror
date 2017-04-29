@@ -1,3 +1,8 @@
+
+This is just a mirror for Mark made by Ingo Karkat.
+http://www.vim.org/scripts/script.php?script_id=2666
+
+
 Mark : Highlight several words in different colors simultaneously. (#1238 continued) 
 
 created by
