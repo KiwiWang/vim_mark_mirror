@@ -1,0 +1,1 @@
+mark-2.8.5.vmb: call delete('/Users/kiwi/Documents/vim_plugin/mark//autoload/mark.vim')|call delete('/Users/kiwi/Documents/vim_plugin/mark//autoload/mark/palettes.vim')|call delete('/Users/kiwi/Documents/vim_plugin/mark//plugin/mark.vim')|call delete('/Users/kiwi/Documents/vim_plugin/mark//doc/mark.txt')
